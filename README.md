@@ -87,7 +87,7 @@ npm install
 * Create a `.env`:
 
 ```env
-REACT_APP_API_URL=http://localhost:5000
+REACT_APP_API_URL=http://localhost:8080
 
 
 * Start the React app:
