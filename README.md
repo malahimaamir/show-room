@@ -1,73 +1,35 @@
-# Welcome to your Lovable project
+🚗 Welcome to AutoVista — Your Smart Vehicle Rental & Explorer Hub
+AutoVista is a modern web platform built for vehicle lovers, city travelers, and weekend roadsters who want convenient, reliable, and flexible access to vehicles. Whether you're looking to rent a luxury car, compare e-vehicles, or explore powerful bikes, AutoVista brings it all together in one clean, responsive interface.
 
-## Project info
+With a smooth and visually rich experience, users can:
 
-**URL**: https://lovable.dev/projects/5f6b3120-3bea-45b5-be5d-c1cc21d31e1f
+🔍 Explore a curated list of cars, bikes, and electric vehicles
 
-## How can I edit this code?
+📅 Check real-time availability and book instantly
 
-There are several ways of editing your application.
+💬 View detailed specifications like mileage, fuel type, and transmission
 
-**Use Lovable**
+❤️ Save favorites for later decisions
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5f6b3120-3bea-45b5-be5d-c1cc21d31e1f) and start prompting.
+🔐 Manage bookings and history through their personal dashboard
 
-Changes made via Lovable will be committed automatically to this repo.
+Meanwhile, admins can easily:
 
-**Use your preferred IDE**
+🧰 Manage the full vehicle inventory
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📦 Monitor bookings and rental status
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+✍️ Add or remove listings with images and specs
 
-Follow these steps:
+Designed with simplicity and speed in mind, AutoVista offers a seamless experience across devices — from desktops to smartphones.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🚀 Tech Behind the Ride
+Built using React, Tailwind CSS, Node.js, and MongoDB, AutoVista is a fully responsive full-stack web application featuring:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+✅ JWT authentication for secure login
 
-# Step 3: Install the necessary dependencies.
-npm i
+✅ Category-based filtering and search
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+✅ Admin panel for managing listings
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5f6b3120-3bea-45b5-be5d-c1cc21d31e1f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+✅ Vercel deployment for blazing-fast performance
